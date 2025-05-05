@@ -1,0 +1,8 @@
+episodes: 30
+steps_per_episode: 500
+latent_dim: 32
+hidden_dim: 128
+batch_size: 16
+learning_rate: 0.001
+gamma: 0.99
+seed: 42
